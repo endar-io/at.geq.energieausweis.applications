@@ -1,6 +1,6 @@
 kind: Namespace
 apiVersion: v1
 metadata:
-  name: argocd-test
+  name: argocd-demo
   labels:
-    name: argocd-test
+    name: argocd-demo
