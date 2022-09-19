@@ -1,0 +1,1 @@
+https://suedbroecker.net/2022/07/22/how-to-deploy-an-application-with-argo-cd-using-a-helm-repository/
