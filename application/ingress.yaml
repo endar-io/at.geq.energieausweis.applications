@@ -8,7 +8,7 @@ spec:
   rules:
   - http:
       paths:
-      - path: /argocdeno
+      - path: /argocdemo
         pathType: Prefix
         backend:
           service:
